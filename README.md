@@ -1,2 +1,2 @@
 # listas-simples
-librería de listas simples en C
+librería de listas simples con datos enteros en C
